@@ -14,7 +14,7 @@ const Intro = () => {
                 </h2>
                 <p>
                     I'm Josh, a Full Stack and Automation Engineer
-                    from in League City, TX!
+                    from League City, TX!
                 </p>
                 <br/>
                 <p>
